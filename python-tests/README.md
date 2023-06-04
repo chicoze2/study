@@ -1,0 +1,1 @@
+Esse repo é uma lista de exercícios em python, abordando strings.
