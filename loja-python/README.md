@@ -1,0 +1,1 @@
+Esse repo é um protótipo de loja digital utilizando python com o intuito de demonstrar o fluxo de funcioanamento de um pseudo-programa

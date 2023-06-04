@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "nome": "test",
+      "qtd": "123",
+      "value": "321"
+    },
+    {
+      "nome": "Pasta de dentes",
+      "qtd": "30",
+      "value": "10"
+    }
+  ],
+  "0": {
+    "nome": "joao",
+    "cpf": "123",
+    "tel": "321"
+  },
+  "1": {
+    "nome": "chico",
+    "cpf": "123",
+    "tel": "456"
+  }
+}
