@@ -55,7 +55,7 @@ public class Principal{
 
 
         //Exercicio 12: Escrever os metodos para encontrar a altura de uma arvore binaria.
-        System.out.println(a.alturaArvore());
+        // System.out.println(a.alturaArvore());
 
         
         //Exercicio 13: Construir metodo bool para retornar:  V - Arvore possui pelo menos uma repetição de elemento

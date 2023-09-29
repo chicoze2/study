@@ -71,8 +71,7 @@ public class Btree{
 
     public void printFormatoParentesis() {
         if (raiz != null) {
-            raiz.
-            ();
+            raiz.printFormatoParentesis();
         }
     }
     
