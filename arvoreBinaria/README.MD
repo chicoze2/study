@@ -17,7 +17,7 @@
 
 * int **somaNaoFolha()** - return the sum of the not-leaf nodes; thoose that have a son.
 
-* boolean **isEstritamenteBinaria()** - checks if the tree is binary; meaning it has 0 or 2 children.
+* boolean **isEstritamenteBinaria()** - checks if the tree is binary; meaning it has 0 or 2 children pattern.
 
 * boolenan **isDegenerada()** - return true if have one node at each level.
 
