@@ -12,3 +12,5 @@ This repo contains the projects that I used to learn new stuff!
   * **arvoreBinaria** - A data-strucure study about binary trees.
 
   *  **crud-php** - Simple php crud, my hello word in this language.
+
+ * **dart-exercises** - Just practicing!
